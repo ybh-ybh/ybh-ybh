@@ -23,6 +23,7 @@
 **Projects:**
 - [know-where](https://github.com/ybh-ybh/know-where) —— Consolidate articles, posts, repos and videos scattered across WeChat, Xiaohongshu, Douyin, Bilibili and GitHub into one Feishu archive, so you can read and learn in a single place
 - [omni-butler](https://github.com/ybh-ybh/omni-butler) —— Your daily todos, recurring events, belongings, time logs and subscriptions, managed by one butler app on Windows and Android
+- [project-learning-assistant](https://github.com/ybh-ybh/project-learning-assistant) —— An agent skill that turns a large codebase into a progressive Markdown course, helping you quickly grasp its architecture and core flows
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybh-ybh/ybh-ybh/output/github-contribution-grid-snake-dark.svg">

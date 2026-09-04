@@ -24,6 +24,7 @@
 
 - [know-where](https://github.com/ybh-ybh/know-where) —— 把散落在微信公众号、掘金、GitHub、小红书、抖音和 B 站的文章、图文、视频统一归档到飞书，让你在同一个地方集中阅读与学习
 - [omni-butler](https://github.com/ybh-ybh/omni-butler) —— 你的每日待办、周期事件、物品管理、时间记录与订阅会员，由一款 Windows 与安卓双端的个人事务管家统一打理
+- [project-learning-assistant](https://github.com/ybh-ybh/project-learning-assistant) —— 一个 agent skill，把大型代码库转成循序渐进的 Markdown 课程，帮你快速搞懂项目架构与核心流程
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybh-ybh/ybh-ybh/output/github-contribution-grid-snake-dark.svg">
