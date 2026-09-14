@@ -17,7 +17,7 @@
 - 🌱 Currently learning AI Agents and following cutting-edge AI trends.
 - 🚀 Working on [know-where](https://github.com/ybh-ybh/know-where) & [omni-butler](https://github.com/ybh-ybh/omni-butler)
 - 🏊‍♂️ Interested in badminton, swimming, running, and lifting – they keep me sharp in every way
-- 📖 Currently reading The Almanack of Naval Ravikant
+- 📖 Currently reading The Almanack of Naval Ravikant and Selected Works of Mao Tse-tung
 - 📝 Writing at [ybh-ybh.top](https://www.ybh-ybh.top)
 
 **Projects:**

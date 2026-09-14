@@ -17,7 +17,7 @@
 - 🌱 最近在学 AI Agent，平时也会刷一刷 AI 圈的新动态
 - 🚀 手头在做两个项目：[know-where](https://github.com/ybh-ybh/know-where) 和 [omni-butler](https://github.com/ybh-ybh/omni-butler)
 - 🏸 羽毛球、游泳、跑步、举铁都玩，运动完脑子最好使
-- 📖 在读《纳瓦尔宝典》（The Almanack of Naval Ravikant）
+- 📖 在读《纳瓦尔宝典》（The Almanack of Naval Ravikant）和《毛泽东选集》
 - 📝 偶尔写点东西，发表在 [ybh-ybh.top](https://www.ybh-ybh.top)
 
 **项目简介：**
