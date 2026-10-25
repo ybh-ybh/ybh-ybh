@@ -19,6 +19,7 @@
 - 🏊‍♂️ Interested in badminton, swimming, running, and lifting – they keep me sharp in every way
 - 📖 Currently reading The Almanack of Naval Ravikant and Selected Works of Mao Tse-tung
 - 📝 Writing at [ybh-ybh.top](https://www.ybh-ybh.top)
+- 🌐 Personal website: [ybh-ybh.github.io](https://ybh-ybh.github.io/)
 
 **Projects:**
 - [know-where](https://github.com/ybh-ybh/know-where) —— Consolidate articles, posts, repos and videos scattered across WeChat, Xiaohongshu, Douyin, Bilibili and GitHub into one Feishu archive, so you can read and learn in a single place

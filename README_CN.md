@@ -19,6 +19,7 @@
 - 🏸 羽毛球、游泳、跑步、举铁都玩，运动完脑子最好使
 - 📖 在读《纳瓦尔宝典》（The Almanack of Naval Ravikant）和《毛泽东选集》
 - 📝 偶尔写点东西，发表在 [ybh-ybh.top](https://www.ybh-ybh.top)
+- 🌐 个人介绍网站：[ybh-ybh.github.io](https://ybh-ybh.github.io/)
 
 **项目简介：**
 
